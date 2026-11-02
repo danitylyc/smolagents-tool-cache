@@ -1,0 +1,7 @@
+[
+  "test_cached_tool.py::test_clear_cache",
+  "test_cached_tool.py::test_hit_and_miss",
+  "test_cached_tool.py::test_ignore_args",
+  "test_cached_tool.py::test_lru_eviction",
+  "test_cached_tool.py::test_transparency"
+]
