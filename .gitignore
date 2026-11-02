@@ -1,0 +1,7 @@
+smolagents-src/.git/
+smolagents-src/**/__pycache__/
+*.pyc
+.venv/
+*_out.txt
+pytest_out.txt
+demo_out.txt
